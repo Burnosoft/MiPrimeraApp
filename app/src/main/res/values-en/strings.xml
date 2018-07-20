@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="background">Android</string>
+    <string name="title">Welcome</string>
+    <string name="enterButton">Enter</string>
+</resources>
